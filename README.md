@@ -1,1 +1,1 @@
-PlaceKitten Random Kitten Generator
+Placekitten Random Image Generator
