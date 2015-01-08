@@ -1,0 +1,26 @@
+body
+{
+padding :0;
+margin:0;
+background-color:black;
+}
+
+img
+{
+padding:0;
+margin:0;
+}
+.kittens
+{
+display:none;
+}
+
+@media (max-width: 640px){
+
+img
+{
+width:100%;
+height:400px;
+}
+
+}
